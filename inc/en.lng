@@ -1,0 +1,22 @@
+{
+"S_LOGO": "SITE LOGO",
+"EXIT": " Exit"
+"LOGIN": " Login"
+"LOGIN_WRONG": " Username not found"
+"LOGIN_SHORT": " Username is too short"
+"LOGIN_EXISTS": " Username allready taken"
+"PASSWORD": " Password"
+"PASSWORD_AGAIN": " Confirm password"
+"PASSWORD_WRONG": " The password is not correct"
+"PASSWORD_SHORT": " Password is too short"
+"PASSWORD_NOT_MATCH": " Passwords do not match"
+"MAIL": " E-mail"
+"MAIL_WRONG": " E-mail address is entered incorrectly"
+"MAN": " Male."
+"WOMAN": " Female."
+"REG_DESC": " All fields are mandatory !"
+"ENTER": " Login"
+"REGISTER": " Registration"
+"HELLO": " Hello "
+" " " "
+}
